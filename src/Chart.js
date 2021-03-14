@@ -3,7 +3,6 @@ import { Line } from 'react-chartjs-2';
 
 const Chart = ( {updateDatas} ) => {
 
-    // console.log(updateDatas);
     return (
         <div className="chart-line">
             <Line
